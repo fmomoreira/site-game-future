@@ -1,0 +1,12 @@
+#carouselExampleControls img{
+    max-height: 340px;
+}
+
+  @media screen and (max-width: 720px) {
+    body{
+        background-color: black;
+    }
+    #carouselExampleControls img{
+        max-height: 140px;
+    }
+  }
