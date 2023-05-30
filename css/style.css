@@ -9,4 +9,11 @@
     #carouselExampleControls img{
         max-height: 140px;
     }
+    .card-body {
+        background-color: black;
+        color: #f6f6f6;
+    }
+    .card{
+        background-color: black;
+    }
   }
